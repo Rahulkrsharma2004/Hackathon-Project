@@ -10,7 +10,8 @@ function App() {
     <>
       <div>
         <h1>Welcome To The Frontend Voice Assistant</h1>
-        <img src={reactLogo} alt="React Logo" />
+        <h3>Find A Top 5 Best Pizza Near Me</h3>
+        
       </div>
     </>
   )
