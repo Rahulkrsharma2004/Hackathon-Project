@@ -49,7 +49,7 @@ const VoiceAssistant = () => {
         }));
         setRestaurants(updatedRestaurants);
       } else {
-        alert("Error fetching restaurants");
+        console.log("Failed to fetch restaurants:", data.message);
       }
     } catch (error) {
       console.error("Error:", error);
