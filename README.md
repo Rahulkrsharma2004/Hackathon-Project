@@ -48,7 +48,7 @@ This project is a **voice-enabled restaurant recommendation system** that helps 
 ## 🔗 LINK  
 
 🔹 **Frontend Deployment:** [Frontend Live Link](https://hackathon-project-restro.vercel.app)  
-🔹 **Demo Video:** [Watch the Video](https://your-video-link.com)  
+🔹 **Demo Video:** [Watch the Video](https://drive.google.com/file/d/1wYqG-zTrB-pCMu_tIj7W-_daY3uYda6j/view?usp=drive_link)  
 
 ---
 
