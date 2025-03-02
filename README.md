@@ -44,3 +44,17 @@ This project is a **voice-enabled restaurant recommendation system** that helps 
 6️⃣ Users can browse through suggestions in the **React UI**  
 
 ---
+
+## ⚙️ Setup & Installation
+
+### 🔹 Frontend Setup  
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/Rahulkrsharma2004/Hackathon-Project.git
+   cd Backend-Voice-assignment
+
+### 🔹 Backend Setup  
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/Rahulkrsharma2004/Hackathon-Project.git
+   cd Frontend-Voice-Assignment
