@@ -53,7 +53,6 @@ const VoiceAssistant = () => {
       }
     } catch (error) {
       console.error("Error:", error);
-      alert("Failed to fetch data");
     } finally {
       setLoading(false);
       resetTranscript();
