@@ -1,6 +1,6 @@
 # Hackathon-Project  
 
-# 🗣️ Voice Assistant for Nearby Restaurants (MERN + Tailwind)  
+# 🗣️ Voice Assistant for Nearby Restaurants (MERN)  
 
 ## 🚀 Overview  
 This project is a **voice-enabled restaurant recommendation system** that helps users discover the **top 5 food items** from the nearest restaurants in real-time. It detects the **user's live location**, fetches nearby restaurants from **OpenStreetMap (Nominatim) or Foursquare API**, and announces the recommended food items using the **Speech Synthesis API**.  
