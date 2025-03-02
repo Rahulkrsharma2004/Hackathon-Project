@@ -1,5 +1,5 @@
 {
-  "name": "frontend-voice-assistant",
+  "name": "voice-assistant",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.8.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-speech-recognition": "^3.10.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",

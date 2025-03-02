@@ -1,17 +1,14 @@
+import React from "react";
+import VoiceAssistant from "./components/VoiceAssistant";
+import "./index.css";
 
-import './App.css'
-
-function App() {
-
+const App = () => {
   return (
-    <>
-      <div>
-        <h1>Welcome To The Frontend Voice Assistant</h1>
-        <h3>Find A Top 5 Best Pizza Near Me</h3>
-        
-      </div>
-    </>
-  )
-}
+    <div className="app">
+      <h1>🍽️ Restaurant Finder</h1>
+      <VoiceAssistant />
+    </div>
+  );
+};
 
-export default App
+export default App;
