@@ -8,17 +8,26 @@ exports.getNearbyRestaurants = async (req, res) => {
       params: {
         q: "restaurant",
         format: "json",
+        limit: 5,
         lat,
         lon,
-        limit: 5,
+        radius: 5000, 
       },
     });
 
     let restaurants = response.data.map((place) => ({
       id: place.place_id,
+      name: place.display_name.split(",")[0],
       address: place.display_name,
       lat: place.lat,
       lon: place.lon,
+      menu: [
+        { name: "Pizza", price: 250 },
+        { name: "Burger", price: 150 },
+        { name: "Pasta", price: 200 },
+        { name: "Sandwich", price: 120 },
+        { name: "Biryani", price: 300 },
+      ],
     }));
 
     res.json({ success: true, restaurants });
