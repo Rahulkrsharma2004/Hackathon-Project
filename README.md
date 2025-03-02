@@ -5,6 +5,10 @@
 ## 🚀 Overview  
 This project is a **voice-enabled restaurant recommendation system** that helps users discover the **top 5 food items** from the nearest restaurants in real-time. It detects the **user's live location**, fetches nearby restaurants from **OpenStreetMap (Nominatim) or Foursquare API**, and announces the recommended food items using the **Speech Synthesis API**.  
 
+<img width="957" alt="h1" src="https://github.com/user-attachments/assets/4556db62-11fd-4b8a-b101-847883d5d992" />
+<img width="946" alt="h2" src="https://github.com/user-attachments/assets/50cc717c-1b28-406e-ada0-f1541365959f" />
+<img width="951" alt="h3" src="https://github.com/user-attachments/assets/423f5ead-8116-400e-8768-d14903f13563" />
+
 ## 🎯 Features  
 ✅ **Live location detection** using Geolocation API  
 ✅ **Fetch nearby restaurants** from OpenStreetMap or Foursquare API  
